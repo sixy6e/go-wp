@@ -1,2 +1,2 @@
 # go-wp
-WirePlumber audio sink selection
+A basic TUI utility that uses WirePlumber to select an audio sink.
